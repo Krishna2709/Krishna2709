@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>Krishna Kankipati</b>
+- 👋 Hi, I’m <b>Krishna Kankipati</b> an <b> AI Solutions Engineer </b>
 - 👀 I’m interested in <b>AI, Quantum Computing, Food, Books, Business Case Studies and Environment</b>
 - 🌱 I’m currently working on <b>Generative AI</b> | <b>Efficient Deep Learning</b> | <b>ABOUT ME</b>
 - 💞️ I’m looking to collaborate on <b>Machine Learning projects solving real-world problems</b>
